@@ -15,7 +15,7 @@ int main()
     else if(prc>=70) printf("Grade C");
     else if(prc>=60) printf("Grade D");
     else if(prc>=40) printf("Grade E");
-    else printf("Grade E");
+    else printf("Grade F");
     
     return 0;
 }
