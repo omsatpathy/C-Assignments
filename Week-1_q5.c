@@ -8,13 +8,13 @@ int main()
     switch(c)
     {
         case 'a':
-        case 'A': printf("Entered alphabet '%c' is a vowel.",c); break;
+        case 'A':
         case 'e':
-        case 'E': printf("Entered alphabet '%c' is a vowel.",c); break;
+        case 'E':
         case 'i':
-        case 'I': printf("Entered alphabet '%c' is a vowel.",c); break;
+        case 'I': 
         case 'o':
-        case 'O': printf("Entered alphabet '%c' is a vowel.",c); break;
+        case 'O': 
         case 'u':
         case 'U': printf("Entered alphabet '%c' is a vowel.",c); break;
         default:  
