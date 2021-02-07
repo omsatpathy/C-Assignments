@@ -8,5 +8,6 @@ int main()
     printf("%.2f - %.2f = %.2f\n",a,b,a-b);
     printf("%.2f * %.2f = %.2f\n",a,b,a*b);
     printf("%.2f / %.2f = %.2f\n",a,b,a/b);
+    printf("Remainder when %.2f is divided by %.2f = %d",a,b,(int)a%(int)b));
     return 0;
 }
